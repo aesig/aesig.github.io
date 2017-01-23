@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+---
 
-You can use the [editor on GitHub](https://github.com/aesig/aesig.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Bienvenido
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam repudiandae officia vel id eius dicta suscipit, modi beatae praesentium nesciunt sequi amet dolorum, voluptate nihil maxime inventore, unde, voluptatum non!
 
-### Markdown
+## Objetivos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus assumenda labore nulla id iure perferendis possimus temporibus non, magni, a ducimus fuga esse itaque et, commodi veniam nemo eius soluta.
 
-```markdown
-Syntax highlighted code block
+## Contacto
 
-# Header 1
-## Header 2
-### Header 3
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat fuga, asperiores nobis, voluptatum voluptate quam, sit quos recusandae mollitia libero, deleniti rem quia dolore dolores! Tenetur quam tempora ducimus porro.
 
-- Bulleted
-- List
+## Junta Directiva
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aesig/aesig.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur non tempore, sed officia ipsum repellendus? Magni ullam repellat, nemo consequuntur deleniti. Fugiat optio ad suscipit repellendus dolorem temporibus tempora nostrum.

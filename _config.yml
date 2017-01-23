@@ -1,1 +1,28 @@
+gems:
+  - jekyll-seo-tag
+
+# https://github.com/pages-themes/slate
 theme: jekyll-theme-slate
+
+exclude:
+  - ".git"
+  - ".rvmrc"
+  - ".rbenv-version"
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "package.json"
+
+# Setup
+title:               AESIG
+description:         Asociación Española de Sistemas de Información Geográfica
+url:                 http://aesig.github.io
+show_downloads:      false
+
+# About/contact
+author:
+  name:              AESIG
+  email:             TO-DO
+
+# Custom vars
