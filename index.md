@@ -17,4 +17,19 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat fuga, asperior
 
 ## Junta Directiva
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur non tempore, sed officia ipsum repellendus? Magni ullam repellat, nemo consequuntur deleniti. Fugiat optio ad suscipit repellendus dolorem temporibus tempora nostrum.
+La junta de AESIG se renovó en Asamblea Extraordinaria del 21 de septiembre de 2016 y actualmente está formada por:
+
+* **Presidente**: Jorge Gaspar Sanz Salinas
+* **Vicepresidente Primero**: Antonio F. Rodríguez Pascual
+* **Secretaria**: Alejandra Sánchez Maganto
+* **Vicesecretario/a**: Pedro-Juan Ferrer Matoses
+* **Tesorero/a**: Santiago Higuera de Frutos
+* **Vicetesorero**: Sebastián Mas Mayoral
+* **Vicepresidentes**: Micho García Coya y Antonio Moreno Jiménez
+* **Vocales**:
+  * María Teresa Manrique Sancho
+  * Francisco Javier Domínguez Bravo
+  * Miguel Ángel Manso Callejo
+  * María Arias de Reyna Domínguez
+  * José Gómez Castaño
+  * Carmen Díez Sanmartín
