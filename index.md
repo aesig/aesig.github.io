@@ -13,7 +13,13 @@ El objetivo de AESIG es  promover, apoyar y potenciar el uso, desarrollo y anál
 
 ## Contacto
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat fuga, asperiores nobis, voluptatum voluptate quam, sit quos recusandae mollitia libero, deleniti rem quia dolore dolores! Tenetur quam tempora ducimus porro.
+La forma más sencilla de contactar con la Asociación es enviar un correo a `contacto.aesig@gmail.com`. La sede social se encuentra en:
+
+```
+Asociación Española de Sistemas de Información Geográfica
+C\General Ibáñez de Íbero 3 (IGN)
+Madrid - 23003
+```
 
 ## Junta Directiva
 
