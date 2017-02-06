@@ -26,7 +26,7 @@ Madrid - 23003
 La junta de AESIG se renovó en Asamblea Extraordinaria del 21 de septiembre de 2016 y actualmente está formada por:
 
 * **Presidente**: Jorge Gaspar Sanz Salinas
-* **Vicepresidente Primero**: Antonio F. Rodríguez Pascual
+* **Vicepresidente Primero**: Antonio Federico Rodríguez Pascual
 * **Secretaria**: Alejandra Sánchez Maganto
 * **Vicesecretario/a**: Pedro-Juan Ferrer Matoses
 * **Tesorero/a**: Santiago Higuera de Frutos
