@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-## Bienvenido
+## Qué es AESIG
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam repudiandae officia vel id eius dicta suscipit, modi beatae praesentium nesciunt sequi amet dolorum, voluptate nihil maxime inventore, unde, voluptatum non!
+AESIG es la Asociación Española de Sistemas de Información Geográfica. 
 
 ## Objetivos
 
