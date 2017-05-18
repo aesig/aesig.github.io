@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+---
 
-You can use the [editor on GitHub](https://github.com/aesig/aesig.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Bienvenido
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam repudiandae officia vel id eius dicta suscipit, modi beatae praesentium nesciunt sequi amet dolorum, voluptate nihil maxime inventore, unde, voluptatum non!
 
-### Markdown
+## Objetivos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El objetivo de AESIG es  promover, apoyar y potenciar el uso, desarrollo y análisis de los Sistemas de Información Geográfica y Territorial y sus aplicaciones, promoviendo la introducción de las tecnologías de la información para la gestión de datos referenciados sobre el terreno. Para ello pretendemos fomentar foros de intercambio de información para todos los individuos, grupos y organizaciones interesadas en el uso y desarrollo de los Sistemas de Información Geográfica y Territorial, colaborando con Organizaciones Públicas y Privadas, españolas y extranjeras. Buscamos estimular la investigación en el terreno de los Sistemas de Información Geográfica y sus ámbitos asociados, mediante la organización de reuniones, exposiciones, visitas, y actividades que involucren a todas las personas interesadas en los Sistemas de Información Geográfica y Territorial.
 
-```markdown
-Syntax highlighted code block
+## Contacto
 
-# Header 1
-## Header 2
-### Header 3
+La forma más sencilla de contactar con la Asociación es enviar un correo a `contacto.aesig@gmail.com`. La sede social se encuentra en:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Asociación Española de Sistemas de Información Geográfica
+C\General Ibáñez de Íbero 3 (IGN)
+Madrid - 23003
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Junta Directiva
 
-### Jekyll Themes
+La junta de AESIG se renovó en Asamblea Extraordinaria del 21 de septiembre de 2016 y actualmente está formada por:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aesig/aesig.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **Presidente**: Jorge Gaspar Sanz Salinas
+* **Vicepresidente Primero**: Antonio Federico Rodríguez Pascual
+* **Secretaria**: Alejandra Sánchez Maganto
+* **Vicesecretario/a**: Pedro-Juan Ferrer Matoses
+* **Tesorero/a**: Santiago Higuera de Frutos
+* **Vicetesorero**: Sebastián Mas Mayoral
+* **Vicepresidentes**: Micho García Coya y Antonio Moreno Jiménez
+* **Vocales**:
+  * María Teresa Manrique Sancho
+  * Francisco Javier Domínguez Bravo
+  * Miguel Ángel Manso Callejo
+  * María Arias de Reyna Domínguez
+  * José Gómez Castaño
+  * Carmen Díez Sanmartín
