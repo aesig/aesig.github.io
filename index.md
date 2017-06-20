@@ -18,7 +18,7 @@ La forma más sencilla de contactar con la Asociación es enviar un correo a `co
 ```
 Asociación Española de Sistemas de Información Geográfica
 C\General Ibáñez de Íbero 3 (IGN)
-Madrid - 23003
+Madrid - 28003
 ```
 
 ## Junta Directiva
